@@ -3,9 +3,9 @@
 [Dataset](https://www.kaggle.com/rounakbanik/pokemon)
 
 
-Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do [site](http://serebii.net/)
+## Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do [site](http://serebii.net/)
 
-Usei um algoritmo de Machine Learning  para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo 'Taxa de captura','passos pra chocar ovo','Felicidade', conseguindo um resultado excelente
+Usei um algoritmo de Machine Learning  para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo Taxa de captura, passos pra chocar ovo, Felicidade, conseguindo um resultado excelente
 
 Verdadeiros positivos e verdadeiros negativos, foram muito superiores em quantidades em relação aos falsos negativos e falsos positivos encontrados, várias vezes que rodei o algoritmo a precisão foi perfeita, mas as vezes 1 ou 2 iam parar na área dos falsos então por convenção vamos falar que a matriz de confusão ficou assim:
 
@@ -30,7 +30,9 @@ Falsos positivios:1
 
 
 
-Obs : Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo exemplo:
+Obs : Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo
+
+**exemplo:**
 
 Tenho um algoritmo que tem 99 pokemons não lendários e 1 lendário e a Accuracy dele é 99%, você deve pensar que é algo bom, mas você pode estar muito enganado, desses 1% que ele não acertou foi o único lendário existente, ou seja talvez seu algoritmo não esteja treinado para identificar lendários
 
