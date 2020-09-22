@@ -10,8 +10,11 @@ Usei um algoritimo de Machine Learning  para definir se o Pokemon é lendário o
 Verdadeiros positivos e verdadeiros negativos, foram muito superiores em quantidades em relação aos falsos negativos e falsos positivos encontrados, várias vezes que rodei o algoritimo a precisão foi perfeita, mas as vezes 1 ou 2 iam parar na área dos falsos então por convenção vamos falar que a matriz de confusão ficou assim:
 
 Verdadeiros positivos:221
+
 Verdadeiros negativos:18
+
 Falsos negativos:1
+
 Falsos positivios:1
 
 
