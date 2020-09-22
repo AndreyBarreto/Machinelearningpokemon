@@ -23,6 +23,8 @@ Falsos positivios:1
 weighted avg       0.99      0.99      0.99       241
 
 
+
+
 Obs:Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo exemplo:
 Tenho um algoritimo que tem 99 pokemons não lendários e 1 lendário e a Accuracy dele é 99%, você deve pensar que é algo bom, mas você pode estar muito enganado, desses 1% que ele não acertou foi o único lendário existente, ou seja talvez seu algoritimo não esteja treinado para identificar lendários
 
