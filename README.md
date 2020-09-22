@@ -1,4 +1,4 @@
-# Machinelearningpokemon
+# Machine learning pokemon
 
 [Dataset](https://www.kaggle.com/rounakbanik/pokemon)
 
