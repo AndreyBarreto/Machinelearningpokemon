@@ -1,9 +1,8 @@
 # Machinelearningpokemon
 
-Dataset: https://www.kaggle.com/rounakbanik/pokemon
-Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do http://serebii.net/
+Dataset: https://www.kaggle.com/rounakbanik/pokemon Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do http://serebii.net/
 
-Usei um algoritimo para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo 'Taxa de captura','passos pra chocar ovo','Felicidade'.
+Usei um algoritimo de Machine Learning  para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo 'Taxa de captura','passos pra chocar ovo','Felicidade', conseguindo um resultado excelente
 
 Verdadeiros positivos e verdadeiros negativos, foram muito superiores em quantidades em relação aos falsos negativos e falsos positivos encontrados, várias vezes que rodei o algoritimo a precisão foi perfeita, mas as vezes 1 ou 2 iam parar na área dos falsos então por convenção vamos falar que a matriz de confusão ficou assim:
 
