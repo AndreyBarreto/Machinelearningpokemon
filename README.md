@@ -13,14 +13,14 @@ Falsos negativos:1
 Falsos positivios:1
 
 
-              precision   recall     f1-score   support
+                    precision   recall   f1-score   support
 
-           0       1.00      1.00      1.00       222
-           1       0.95      0.95      0.95        19
+           0           1.00       1.00     1.00       222
+           1           0.95      0.95     0.95        19
 
-    accuracy                           0.99       241
-   macro avg       0.97      0.97      0.97       241
-weighted avg       0.99      0.99      0.99       241
+    accuracy                               0.99       241
+    macro avg          0.97      0.97      0.97       241
+    weighted avg       0.99      0.99      0.99       241
 
 
 
