@@ -9,13 +9,13 @@ Usei um algoritmo de Machine Learning  para definir se o Pokemon é lendário ou
 
 Verdadeiros positivos e verdadeiros negativos, foram muito superiores em quantidades em relação aos falsos negativos e falsos positivos encontrados, várias vezes que rodei o algoritmo a precisão foi perfeita, mas as vezes 1 ou 2 iam parar na área dos falsos então por convenção vamos falar que a matriz de confusão ficou assim:
 
-Verdadeiros positivos:221
+**Verdadeiros positivos:221**
 
-Verdadeiros negativos:18
+**Verdadeiros negativos:18**
 
-Falsos negativos:1
+**Falsos negativos:1**
 
-Falsos positivios:1
+**Falsos positivios:1**
 
 
                     precision   recall   f1-score   support
@@ -30,7 +30,7 @@ Falsos positivios:1
 
 
 
-Obs : Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo
+**Obs :** Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo
 
 **exemplo:**
 
