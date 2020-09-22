@@ -30,7 +30,7 @@ Verdadeiros positivos e verdadeiros negativos, foram muito superiores em quantid
 
 
 
-**Obs :** Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o todo
+**Obs :** Accuracy não é algo muito interessante de se olhar pois temos o numero de pokemons não lendarios muito superiores em relação aos lendários e essa medida pega o geral
 
 **exemplo:**
 
