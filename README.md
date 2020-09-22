@@ -38,7 +38,7 @@ Nesse código usei dois tipos diferentes de algoritmo, Random Forest e Decision 
 
 No começo o dataframe tinha 41 colunas, sendo algumas que eu não via motivos para deixar já que eu sabia que não ia alterar em quase nada meu modelo e também a questão de perfomance,random forest é um algoritmo que requer bastante da sua máquina, se eu executasse com 41 colunas e 802 linhas, acho que explodiria.
 
-Algo muito massa que aconteceu nesse dataframe é que não tinha muitas correlações fortes( a mais forte tinha 0,86 uma correlação forte positiva), mas mesmo assim se fosse olhar só por ela o acerto não seria tão bom,mas oque tinha era várias correlações não tão fortes mas que ajudaram a nossos algoritmo perfomar muito melhor, depois de plotar a minha árvore percebi que altura e peso não era uma parte da árvore, ou seja poderia remove-las sem problemas
+Algo muito massa que aconteceu nesse dataframe é que não tinha muitas correlações fortes( a mais forte tinha 0,86 uma correlação forte positiva), mas mesmo assim se fosse olhar só por ela o acerto não seria tão bom,mas oque tinha era várias correlações não tão fortes mas que ajudaram a nossos algoritmo perfomar muito melhor, depois de plotar a minha árvore percebi que altura e peso não apareciam na  parte da árvore, ou seja poderia remove-las sem problemas.
 
 Teste no Pikachu e no Mewtwo foram realizados, resultando nas respostas correta, outro fator que experimentei foi com pokemon semi lendários(Salamence), que são pokemons com atributos semelhantes dos lendários, mas que no final não são e mesmo assim o algoritmo se performou muito bem
 
