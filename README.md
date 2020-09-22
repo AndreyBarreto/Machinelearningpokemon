@@ -1,6 +1,6 @@
 # Machinelearningpokemon
 
-Dataset: https://www.kaggle.com/rounakbanik/pokemon Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do http://serebii.net/
+[Dataset](https://www.kaggle.com/rounakbanik/pokemon):Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do [site](http://serebii.net/)
 
 Usei um algoritimo de Machine Learning  para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo 'Taxa de captura','passos pra chocar ovo','Felicidade', conseguindo um resultado excelente
 
@@ -33,4 +33,6 @@ No começo o dataframe tinha 41 colunas, sendo algumas que eu não via motivos p
 
 Algo muito massa que aconteceu nesse dataframe é que não tinha muitas correlações fortes( a mais forte tinha 0,86 uma correlação forte positiva), mas mesmo assim se fosse olhar só por ela o acerto não seria tão bom,mas oque tinha era várias correlações não tão fortes mas que ajudaram a nossos algoritimos perfomar muito melhor!
 
-Pokemon foi algo que eu sempre gostei, então nada melhor do que usar os conhecimentos em programação para algo útil, POKEMONNN!
+Outro fator que experimentei foi com pokemon semi lendários(Salamence), que são pokemons com atributos semelhantes dos lendários, mas que no final não são e mesmo assim o algoritimo se performou muito bem
+
+Pokemon foi algo que eu sempre gostei, então nada melhor do que usar os conhecimentos em programação para algo útil, POKEMON!
