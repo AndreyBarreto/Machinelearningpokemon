@@ -1,6 +1,9 @@
 # Machinelearningpokemon
 
-[Dataset](https://www.kaggle.com/rounakbanik/pokemon):Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do [site](http://serebii.net/)
+[Dataset](https://www.kaggle.com/rounakbanik/pokemon)
+
+
+Esse conjunto tem 802 pokemons de 7 gerações e todas as informações foram extraidas do [site](http://serebii.net/)
 
 Usei um algoritimo de Machine Learning  para definir se o Pokemon é lendário ou não com base em algumas features, como por exemplo 'Taxa de captura','passos pra chocar ovo','Felicidade', conseguindo um resultado excelente
 
